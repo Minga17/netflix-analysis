@@ -42,7 +42,7 @@ across movies and TV shows from 2008 to 2021.
 ## 🔗 Links
 
 - **Kaggle Notebook:** [Netflix Analysis](https://www.kaggle.com/code/mingangolo/netflix-analysis)
-- **Portfolio:** [portfolio.mingangolo.com](https://minga-portfolio.onrender.com)
+- **Portfolio:** [minga-portfolio.onrender.com](https://minga-portfolio.onrender.com)
 - **LinkedIn:** [linkedin.com/in/minga17](https://www.linkedin.com/in/minga17)
 
 ---
